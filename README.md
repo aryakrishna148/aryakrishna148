@@ -58,13 +58,6 @@ DSA • OOP • DBMS • Machine Learning • NLP • Data Analytics
 
 ---
 
-## 📜 Certifications
-
-- SAP Business Data Cloud
-- Data Analytics Certification
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/arya-krishna-5092702ab
