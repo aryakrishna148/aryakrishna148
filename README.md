@@ -70,13 +70,6 @@ Professional portfolio website showcasing skills, projects, and achievements.
 
 ---
 
-## 📊 GitHub Stats
-
-![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryakrishna148&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryakrishna148&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
