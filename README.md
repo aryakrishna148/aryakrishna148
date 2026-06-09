@@ -1,7 +1,6 @@
-## Hi there 👋
+# Hi 👋, I'm Arya Krishna
 
-<h1 align="center">Hi 👋, I'm Arya Krishna</h1>
-<h3 align="center">Computer Science Undergraduate | Software Developer | Data Analytics Enthusiast</h3>
+### Computer Science Undergraduate | Software Developer | Data Analytics Enthusiast
 
 <p align="center">
   <a href="https://github.com/aryakrishna148">
@@ -13,70 +12,79 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student at KIIT University
-
-💻 Interested in Software Development, Data Analytics, Business Analysis, and AI
-
-📊 Skilled in Java, Python, SQL, Excel, HTML, CSS, and JavaScript
-
-🌱 Currently exploring Machine Learning and Full Stack Development
-
-🎥 Volunteer & Video Editor with NSS and Nidaan
-
-⚡ Passionate about problem-solving, innovation, and building impactful projects
+- 🎓 B.Tech CSE Student at KIIT University (2023–2027)
+- 💻 Interested in Software Development, Data Analytics, AI & Machine Learning
+- 📊 Skilled in building analytics dashboards and ML-based solutions
+- 🌱 Currently learning Full Stack Development and Cloud Technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- Python
-- C
-- SQL
-- JavaScript
+Java • Python • C • SQL • JavaScript
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
+HTML • CSS • JavaScript
 
 ### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- PostgreSQL
-- Excel
-- Power BI
+Git • GitHub • VS Code • Salesforce • Excel
+
+### Analytics
+SAP Analytics Cloud • SAP HANA
+
+### Core Concepts
+DSA • OOP • DBMS • Machine Learning • NLP • Data Analytics
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛍️ Clothing Store Website
-A responsive e-commerce website built using HTML, CSS, and JavaScript.
+### 🌱 GreenWatch India
+- NLP-based greenwashing detection system.
+- Machine learning-powered text classification.
 
-### 📈 SaleslyCashely
-Data-driven project focused on business insights and analytics.
+### ❤️ Heart Failure Prediction System
+- Predictive healthcare model using machine learning.
+- Responsive web interface for real-time prediction.
 
-### 🏥 Health Failure Prediction
-Machine Learning project for predicting health-related outcomes.
+### 📊 SAP O2C Analytics Dashboard
+- KPI monitoring and reporting automation.
+- Business analytics using SAP Analytics Cloud.
 
-### 🌱 Greenwashing Detection
-Research and analytics project identifying misleading sustainability claims.
-
-### 🌐 Personal Portfolio
-Professional portfolio website showcasing skills, projects, and achievements.
+### 🌐 Personal Portfolio Website
+- Responsive portfolio showcasing projects and skills.
+- Modern and user-friendly design.
 
 ---
 
+## 📜 Certifications
+
+- SAP Business Data Cloud
+- Data Analytics Certification
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryakrishna148&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryakrishna148" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakrishna148&layout=compact" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/arya-krishna148
-- GitHub: https://github.com/aryakrishna148
-- Email: aryakrishna148@gmail.com
+- LinkedIn: www.linkedin.com/in/arya-krishna-5092702ab
+- GitHub: github.com/aryakrishna148
+- Email: aryakrishnalko@gmail.com
 
 ---
-
-
