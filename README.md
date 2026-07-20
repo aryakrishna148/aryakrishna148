@@ -1,67 +1,609 @@
-# Hi 👋, I'm Arya Krishna
-
-### Computer Science Undergraduate | Software Developer | Data Analytics Enthusiast
+<!-- ========================================================= -->
+<!--                     HEADER SECTION                         -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://github.com/aryakrishna148">
-    <img src="https://komarev.com/ghpvc/?username=aryakrishna148&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,27&text=Arya%20Krishna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Arya Krishna
+</h1>
+
+<h3 align="center">
+Computer Science Undergraduate • Data Analytics • Machine Learning • Software Engineering
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Machine+Learning+Developer;Data+Analytics+Enthusiast;Business+Analytics;Always+Learning+Something+New"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+<p align="center">
 
-- 🎓 B.Tech CSE Student at KIIT University (2023–2027)
-- 💻 Interested in Software Development, Data Analytics, AI & Machine Learning
-- 📊 Skilled in building analytics dashboards and ML-based solutions
-- 🌱 Currently learning Full Stack Development and Cloud Technologies
+<a href="https://github.com/aryakrishna148">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aryakrishna148&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/aryakrishna148?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/aryakrishna148?style=for-the-badge">
+
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Languages
-Java • Python • C • SQL • JavaScript
+```yaml
+Name: Arya Krishna
 
-### Web Development
-HTML • CSS • JavaScript
+Education:
+  B.Tech Computer Science
+  KIIT University
 
-### Tools & Platforms
-Git • GitHub • VS Code • Salesforce • Excel
+Interests:
+  - Software Engineering
+  - Machine Learning
+  - Data Analytics
+  - Business Analysis
+
+Current Focus:
+  Building scalable applications and
+  solving real-world problems using AI
+  and data-driven technologies.
+
+Open To:
+  - Software Engineering Internships
+  - Data Analyst Roles
+  - Machine Learning Roles
+  - Open Source
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
+
+</p>
+
+## Libraries & Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,express"/>
+
+</p>
+
+## Cloud • Tools • IDE
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
 
 ### Analytics
-SAP Analytics Cloud • SAP HANA
 
-### Core Concepts
-DSA • OOP • DBMS • Machine Learning • NLP • Data Analytics
-
----
-
-## 📌 Featured Projects
-
-### 🌱 GreenWatch India
-- NLP-based greenwashing detection system.
-- Machine learning-powered text classification.
-
-### ❤️ Heart Failure Prediction System
-- Predictive healthcare model using machine learning.
-- Responsive web interface for real-time prediction.
-
-### 📊 SAP O2C Analytics Dashboard
-- KPI monitoring and reporting automation.
-- Business analytics using SAP Analytics Cloud.
-
-### 🌐 Personal Portfolio Website
-- Responsive portfolio showcasing projects and skills.
-- Modern and user-friendly design.
+- SAP Analytics Cloud
+- SAP HANA
+- Excel
+- Pandas
+- NumPy
+- Scikit-Learn
+- Salesforce
 
 ---
 
-## 📫 Connect With Me
+# AI / ML Expertise
 
-- LinkedIn: www.linkedin.com/in/arya-krishna-5092702ab
-- GitHub: github.com/aryakrishna148
-- Email: aryakrishnalko@gmail.com
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Classification & Predictive Models |
+| NLP | ⭐⭐⭐⭐☆ | Text Classification |
+| Data Analytics | ⭐⭐⭐⭐⭐ | Excel, SQL, SAP Analytics Cloud |
+| Business Intelligence | ⭐⭐⭐⭐☆ | KPI Dashboard Development |
+| Software Engineering | ⭐⭐⭐⭐☆ | Full Stack Fundamentals |
+
+---
+
+# Featured Projects
+
+<details>
+
+<summary>
+
+## 🌿 GreenWatch India
+
+</summary>
+
+AI-powered NLP project for detecting misleading environmental claims in food products.
+
+| Category | Details |
+|------------|----------|
+| Stack | Python, NLP, Scikit-Learn |
+| Dataset | Large-scale food dataset |
+| Features | Text preprocessing, Feature Engineering |
+| Model | Machine Learning Classification |
+| Impact | Helps identify potential greenwashing claims |
+| Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 📊 SAP Order-to-Cash Analytics Dashboard
+
+</summary>
+
+Business Intelligence dashboard built using SAP Analytics Cloud.
+
+| Category | Details |
+|------------|----------|
+| Stack | SAP Analytics Cloud, SAP HANA |
+| KPIs | Revenue, Sales, Orders |
+| Dashboard | Interactive |
+| Features | Filters, Drill-down, Business Insights |
+| Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## ❤️ Heart Failure Prediction
+
+</summary>
+
+Healthcare ML model predicting heart failure risk.
+
+| Category | Details |
+|------------|----------|
+| Stack | Python, Scikit-Learn |
+| Models | Logistic Regression, Random Forest |
+| Evaluation | Accuracy, Precision, Recall |
+| Goal | Early Risk Prediction |
+| Repository | Coming Soon |
+
+</details>
+
+---
+<!-- ========================================================= -->
+<!--                     HEADER SECTION                         -->
+<!-- ========================================================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,27&text=Arya%20Krishna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Arya Krishna
+</h1>
+
+<h3 align="center">
+Computer Science Undergraduate • Data Analytics • Machine Learning • Software Engineering
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Machine+Learning+Developer;Data+Analytics+Enthusiast;Business+Analytics;Always+Learning+Something+New"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/aryakrishna148">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aryakrishna148&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/aryakrishna148?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/aryakrishna148?style=for-the-badge">
+
+</p>
+
+---
+
+# About Me
+
+```yaml
+Name: Arya Krishna
+
+Education:
+  B.Tech Computer Science
+  KIIT University
+
+Interests:
+  - Software Engineering
+  - Machine Learning
+  - Data Analytics
+  - Business Analysis
+
+Current Focus:
+  Building scalable applications and
+  solving real-world problems using AI
+  and data-driven technologies.
+
+Open To:
+  - Software Engineering Internships
+  - Data Analyst Roles
+  - Machine Learning Roles
+  - Open Source
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
+
+</p>
+
+## Libraries & Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,express"/>
+
+</p>
+
+## Cloud • Tools • IDE
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+### Analytics
+
+- SAP Analytics Cloud
+- SAP HANA
+- Excel
+- Pandas
+- NumPy
+- Scikit-Learn
+- Salesforce
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Classification & Predictive Models |
+| NLP | ⭐⭐⭐⭐☆ | Text Classification |
+| Data Analytics | ⭐⭐⭐⭐⭐ | Excel, SQL, SAP Analytics Cloud |
+| Business Intelligence | ⭐⭐⭐⭐☆ | KPI Dashboard Development |
+| Software Engineering | ⭐⭐⭐⭐☆ | Full Stack Fundamentals |
+
+---
+
+# Featured Projects
+
+<details>
+
+<summary>
+
+## 🌿 GreenWatch India
+
+</summary>
+
+AI-powered NLP project for detecting misleading environmental claims in food products.
+
+| Category | Details |
+|------------|----------|
+| Stack | Python, NLP, Scikit-Learn |
+| Dataset | Large-scale food dataset |
+| Features | Text preprocessing, Feature Engineering |
+| Model | Machine Learning Classification |
+| Impact | Helps identify potential greenwashing claims |
+| Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 📊 SAP Order-to-Cash Analytics Dashboard
+
+</summary>
+
+Business Intelligence dashboard built using SAP Analytics Cloud.
+
+| Category | Details |
+|------------|----------|
+| Stack | SAP Analytics Cloud, SAP HANA |
+| KPIs | Revenue, Sales, Orders |
+| Dashboard | Interactive |
+| Features | Filters, Drill-down, Business Insights |
+| Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## ❤️ Heart Failure Prediction
+
+</summary>
+
+Healthcare ML model predicting heart failure risk.
+
+| Category | Details |
+|------------|----------|
+| Stack | Python, Scikit-Learn |
+| Models | Logistic Regression, Random Forest |
+| Evaluation | Accuracy, Precision, Recall |
+| Goal | Early Risk Prediction |
+| Repository | Coming Soon |
+
+</details>
+
+---
+<!-- ========================================================= -->
+<!--                     HEADER SECTION                         -->
+<!-- ========================================================= -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,27&text=Arya%20Krishna&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm Arya Krishna
+</h1>
+
+<h3 align="center">
+Computer Science Undergraduate • Data Analytics • Machine Learning • Software Engineering
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+in+Progress;Machine+Learning+Developer;Data+Analytics+Enthusiast;Business+Analytics;Always+Learning+Something+New"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/aryakrishna148">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aryakrishna148&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/aryakrishna148?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/aryakrishna148?style=for-the-badge">
+
+</p>
+
+---
+
+# About Me
+
+```yaml
+Name: Arya Krishna
+
+Education:
+  B.Tech Computer Science
+  KIIT University
+
+Interests:
+  - Software Engineering
+  - Machine Learning
+  - Data Analytics
+  - Business Analysis
+
+Current Focus:
+  Building scalable applications and
+  solving real-world problems using AI
+  and data-driven technologies.
+
+Open To:
+  - Software Engineering Internships
+  - Data Analyst Roles
+  - Machine Learning Roles
+  - Open Source
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql"/>
+
+</p>
+
+## Libraries & Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,express"/>
+
+</p>
+
+## Cloud • Tools • IDE
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+### Analytics
+
+- SAP Analytics Cloud
+- SAP HANA
+- Excel
+- Pandas
+- NumPy
+- Scikit-Learn
+- Salesforce
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Classification & Predictive Models |
+| NLP | ⭐⭐⭐⭐☆ | Text Classification |
+| Data Analytics | ⭐⭐⭐⭐⭐ | Excel, SQL, SAP Analytics Cloud |
+| Business Intelligence | ⭐⭐⭐⭐☆ | KPI Dashboard Development |
+| Software Engineering | ⭐⭐⭐⭐☆ | Full Stack Fundamentals |
+
+---
+
+# Featured Projects
+
+<details>
+
+<summary>
+
+## 🌿 GreenWatch India
+
+</summary>
+
+AI-powered NLP project for detecting misleading environmental claims in food products.
+
+| Category | Details |
+|------------|----------|
+| Stack | Python, NLP, Scikit-Learn |
+| Dataset | Large-scale food dataset |
+| Features | Text preprocessing, Feature Engineering |
+| Model | Machine Learning Classification |
+| Impact | Helps identify potential greenwashing claims |
+| Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 📊 SAP Order-to-Cash Analytics Dashboard
+
+</summary>
+
+Business Intelligence dashboard built using SAP Analytics Cloud.
+
+| Category | Details |
+|------------|----------|
+| Stack | SAP Analytics Cloud, SAP HANA |
+| KPIs | Revenue, Sales, Orders |
+| Dashboard | Interactive |
+| Features | Filters, Drill-down, Business Insights |
+| Repository | Coming Soon |
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## ❤️ Heart Failure Prediction
+
+</summary>
+
+Healthcare ML model predicting heart failure risk.
+
+| Category | Details |
+|------------|----------|
+| Stack | Python, Scikit-Learn |
+| Models | Logistic Regression, Random Forest |
+| Evaluation | Accuracy, Precision, Recall |
+| Goal | Early Risk Prediction |
+| Repository | Coming Soon |
+
+</details>
 
 ---
