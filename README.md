@@ -201,13 +201,8 @@ Healthcare ML model predicting heart failure risk.
 </details>
 
 ---
-# Experience
 
-## 💼 Data Analytics Intern | Skillmanthan
 
-**May 2026 – June 2026**
-
-Worked on data analytics tasks involving data cleaning, preprocessing, reporting, and visualization. Collaborated with team members to analyze datasets, generate business insights, and prepare reports that supported data-driven decision-making.
 
 **Key Responsibilities**
 
@@ -224,41 +219,11 @@ Worked on data analytics tasks involving data cleaning, preprocessing, reporting
 
 ---
 
-# Leadership & Extracurricular
 
-## KIIT Entrepreneurship Cell (E-Cell)
 
-**Head of Mentorship (R&D Team)**
 
-- Coordinated mentors and student teams
-- Managed event planning and execution
-- Maintained documentation and Excel trackers
-- Facilitated communication among stakeholders
-- Contributed to KIIT Fest, E-Summit, and innovation events
 
----
 
-## AWS Student Club
-
-**Marketing & Tech Lead**
-
-- Managed technical event promotions
-- Increased student engagement through outreach
-- Coordinated marketing campaigns
-- Assisted in organizing workshops and technical sessions
-
----
-
-## National Service Scheme (NSS)
-
-**Volunteer & Video Editor**
-
-- Conducted awareness campaigns
-- Taught students in schools and orphanages
-- Participated in cleanliness drives
-- Created digital content for social initiatives
-
----
 
 # Certifications
 
